@@ -4,7 +4,7 @@ our Offensive Security course, for which all group members received As.
 
 It specifically masks "malicious" traffic, through Twitter's API using messages embedded in images of cats, which are then publicly tweeted.
 
-# A Note to Script Kitties
+## A Note to Script Kitties
 Yes, this was pun intended. The project is specifically proof of concept, and as such, if one were to copy it verbatim for otherwise illegal purposes,
 they'd encounter some issues. For instance, we deliberately left all embedded messages in plaintext. We also used Twitter's API rather than something
 more covert like a headless browser with the headers modified.
