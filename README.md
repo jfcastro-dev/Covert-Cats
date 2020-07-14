@@ -1,4 +1,7 @@
 # Covert Cats
+
+![alt text](cc.png "Data Transmission")
+
 Covert Cats is a proof of concept covert command & control channel. It was created for
 our Offensive Security course, for which all group members received As.
 
@@ -13,7 +16,8 @@ more covert like a headless browser with the headers modified.
 The API limits with respect to demoing had issues - This is meant that we could not 
 demonstrate in a timely manner. In order to run how it is meant to be run, the global variable interval in clients
 should be set to a reasonable timeframe (~900 seconds), and scaled accordingly for the number of clients it is
-supporting. Alternatively, purchasing an API Key with more requests for a larger scale production is likely required.
+supporting. Alternatively, purchasing an API Key with more requests for a larger scale production is likely required. 
+Or, one could bypass this limit as previously stated, via headless browser frameworks.
 
 ## Proof of Transfer
 * [Click here to view the record of the transactions](https://twitter.com/NateSBU)
