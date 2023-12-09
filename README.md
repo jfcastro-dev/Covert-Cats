@@ -71,7 +71,7 @@ These following commands are ran the same as the previous but do not have any ef
 **msgs.txt** - Prewritten Messages to accompany pictures on twitter to help the bot become more inconspicuous
 
 ## Installation
-pip3 install -r pkgs.txt for packages we used
+pip3 install -r requirements.txt for packages we used
 pip3 install textract
 
 ## How to Run
